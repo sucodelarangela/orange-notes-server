@@ -1,0 +1,17 @@
+{
+  "name": "orange-notes-server",
+  "version": "1.0.0",
+  "description": "Simple json database to deploy to the Orange Notes app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Angela Caldas",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
